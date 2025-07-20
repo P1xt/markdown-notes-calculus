@@ -41,11 +41,11 @@ In order to solve problems involving limits and continuity, I should understand 
     - [**Theorem 8: Continuity of Composite Functions**](#theorem-8-continuity-of-composite-functions)
     - [**Theorem 9: The Intermediate Value Theorem (IVT)**](#theorem-9-the-intermediate-value-theorem-ivt)
 
-<!-- TOC end -->
+<!-- TOC end --
 
 ---
 
-<!-- TOC --><a name="first-look"></a>
+<!-- TOC --<a name="first-look"</a
 ## **First look**
 
 <!-- TOC --><a name="contents-page-page-iii"></a>
@@ -153,8 +153,8 @@ $$
 
 **if and only if**:
 
-> For every $\varepsilon > 0$, there exists a $\delta > 0$ such that
-> whenever $0 < |x - x_0| < \delta$, it follows that $|f(x) - L| < \varepsilon$.
+For every $\varepsilon > 0$, there exists a $\delta > 0$ such that
+whenever $0 < |x - x_0| < \delta$, it follows that $|f(x) - L| < \varepsilon$.
 
 ---
 
@@ -178,11 +178,11 @@ $$
 
 If someone says:
 
-> “I want $f(x)$ to stay within 0.01 of 7 (so $\varepsilon = 0.01$),”
+“I want $f(x)$ to stay within 0.01 of 7 (so $\varepsilon = 0.01$),”
 
 You can reply:
 
-> “Then keep $x$ within 0.0033 of 2 (so $\delta = 0.0033$), and it’ll work.”
+“Then keep $x$ within 0.0033 of 2 (so $\delta = 0.0033$), and it’ll work.”
 
 This back-and-forth guarantees that no matter how tight the output range is, we can always make the input close enough to hit it.
 
